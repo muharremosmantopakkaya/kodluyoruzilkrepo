@@ -35,6 +35,6 @@ Markdown, aşağıdaki temel sözdizimini kullanır:
 
 ## Resimler
 
-Bu repoya, projemizin bir resmi eklenmiştir. Resim, `proje.png` dosyasında bulunmaktadır.
-
+Bu repoya, projemizin bir resmi eklenmiştir. Resim, `markdown.png` dosyasında bulunmaktadır.
+Proje Resmi: C:\Users\canbe\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\markdown.png
 Proje Resmi: markdown.png
