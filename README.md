@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![Markdown Resi](markdown.png)
+![Markdown Resmi](markdown.png)
 
 
 
@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Ana Sayfa</title>
+
 </head>
 <body>
   <h1>Merhaba!</h1>
