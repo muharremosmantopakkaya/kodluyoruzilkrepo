@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![Markdown Resmi](markdown.png)
+![Markdown Resi](markdown.png)
 
 
 
